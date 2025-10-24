@@ -2,9 +2,9 @@
 Superstore Sales Dashboard This Power BI dashboard presents key metrics: total sales ($2.3M), profit ($4.59M), and quantity (9,994). Visuals include sales by sub-category, profit by region, and monthly trends. City-level insights and KPIs support strategic decisions across categories and geographies.
 
 
-## 🛒 Power BI Project: Superstore Sales Analysis
+##  Power BI Project: Superstore Sales Analysis
 
-### 📌 Project Overview:
+###  Project Overview:
 This dashboard provides a comprehensive analysis of sales performance across product categories, cities, and regions. It enables business stakeholders to monitor profitability, identify high-performing locations, and track monthly trends using interactive visuals.
 
 ---
