@@ -7,7 +7,7 @@ Superstore Sales Dashboard This Power BI dashboard presents key metrics: total s
 ###  Project Overview:
 This dashboard provides a comprehensive analysis of sales performance across product categories, cities, and regions. It enables business stakeholders to monitor profitability, identify high-performing locations, and track monthly trends using interactive visuals.
 
----
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a39c0d6-7c00-497d-9294-1dabf0ba8718" />
 
 
@@ -39,7 +39,7 @@ This dashboard provides a comprehensive analysis of sales performance across pro
 - Fields Used: Category, Sub-Category, City, Region, Sales, Profit, Quantity, Order Date, Customer Name, Segment, State, Ship Date  
 - Interactive Filters: Enable dynamic exploration by region, category, and time
 
----
+
 
 ###  Tools & Techniques Used:
 - Power BI Desktop
@@ -48,7 +48,6 @@ This dashboard provides a comprehensive analysis of sales performance across pro
 - DAX Measures: For calculating totals and trends
 - Slicers: For interactive filtering by category, city, and region
 
----
 
 ###  Outcome:
 This dashboard delivers actionable insights into sales distribution, regional profitability, and product performance. It supports business decisions related to inventory planning, regional targeting, and customer segmentation.
